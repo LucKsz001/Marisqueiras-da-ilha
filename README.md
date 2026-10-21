@@ -57,7 +57,7 @@ As marisqueiras da Vila Maresia, em Raposa (MA), têm dificuldade para vender di
 ## Como executar
 
 ```bash
-git clone https://github.com/SEU-USUARIO/marisqueiras-da-ilha.git
+git clone https://github.com/LucKsz001/marisqueiras-da-ilha.git
 cd marisqueiras-da-ilha
 
 python main.py      # menu interativo no terminal
@@ -216,7 +216,7 @@ Pagamento, rastreamento de entrega em tempo real, versão web, banco de dados (o
 
 ## Autor
 
-Desenvolvido como atividade de Programação Orientada a Objetos — UNDB (PjBL).
+Desenvolvido por **LucKsz001** como atividade de Programação Orientada a Objetos — UNDB (PjBL).
 
 ## Licença
 
